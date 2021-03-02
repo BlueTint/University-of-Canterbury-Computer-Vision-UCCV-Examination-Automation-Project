@@ -1,0 +1,2 @@
+this folder will provide the scripts of models training,
+as well as all saved model will have trained so far
