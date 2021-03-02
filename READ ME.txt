@@ -1,0 +1,17 @@
+this folder is provding all the material of the final version coding for the project
+
+there will be 2 versions of script under notebook format:
+	- comprehensive version will be the final version, which was done as functions, and designed 
+		to loop thru all the files in given folder and end up with the excel output table.
+	- comprehansive version is used for debugging, which will be broken into step by step with output of each step.
+
+the setting of the some coding in these 2 versions may be lightly different due to changing to improve the performance
+
+the code is designed to run in colab will need to be changed to run in another enviroment, such as cv2_imshow() in colde need to replace by cv2.imshow or plot if not run in colab
+
+all the inputs,dataframe and model were saved and loaded directly from google drive, as well as outputing.
+therefor this directory need to be changed if the data is stored and loaded from local drive.
+
+the 1st 2 lines of the 1st cell need to be run everytime start the colab as the colab does not include this library.
+
+the in use folder will contain only the models that already pluged-in with the main code. another trained models were saved under folder 2
