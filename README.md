@@ -24,6 +24,7 @@ step within the examinations processing pipeline has been identified as having t
 markedly improved upon using automation efficiency.
 
 ![CNN](https://user-images.githubusercontent.com/45345672/110233533-71b70900-7f89-11eb-8eed-c1f687452675.PNG)
+
 Convolutional neural network model for handwritten characters (1 of 2)
 
 Convolutional neural network models trained using NIST Special Database 19, Extended MNIST (EMNIST) data which 
@@ -31,9 +32,11 @@ consists of class balanced Handwritten digit and English alphabetical character 
 employees of American Census Bureau.
 
 ![EMNIST](https://user-images.githubusercontent.com/45345672/110233591-be024900-7f89-11eb-9ecb-9743001ba30d.PNG)
+
 EMNIST Letter and Digit dataset
 
 ![CNN Digit](https://user-images.githubusercontent.com/45345672/110233831-9b712f80-7f8b-11eb-9c2d-a6fa189421e9.png)
+
 Snippet of CNN training & Validation curve behaviour
 
 Open Source Computer Vision Library (OpenCV) was selected as the library of choice due to its mature 
